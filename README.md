@@ -20,7 +20,7 @@
 ![Screenshot (55)](https://user-images.githubusercontent.com/116963622/215740664-45642b3a-4223-4766-9ff3-c47d69c7f402.png)
 ![Screenshot (56)](https://user-images.githubusercontent.com/116963622/215740875-4bbbcd51-a5ed-41e5-8e5c-ff65c6fa38d9.png)
 ![Screenshot (57)](https://user-images.githubusercontent.com/116963622/215741113-0d92fe73-c09d-4825-aadc-a1036f17f241.png)
-## and at the end i exported the model and went ahead and created a web application using it for the HR using streamlit that can predict given a bunch variables weather an employee is likely to leave or not leave the organization.
+## and at the end i exported the model and went ahead and created a web application using it by the help of streamlit framework for the HR that can predict weather an employee is likely to leave or not leave the organization given a bunch of variables.
 ![Screenshot (58)](https://user-images.githubusercontent.com/116963622/215742600-aa63341f-b721-43d8-ba58-a4c0d1599e50.png)
 ![Screenshot (59)](https://user-images.githubusercontent.com/116963622/215743004-82d90de8-ed74-4022-9abd-79222678bfa0.png)
 ![Screenshot (60)](https://user-images.githubusercontent.com/116963622/215743381-8c7b717c-9558-45cb-9d35-d5743543e134.png)
